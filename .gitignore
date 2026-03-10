@@ -1,0 +1,10 @@
+# MyST build outputs
+_build
+
+# Virtual environment
+.venv
+venv
+env
+
+# OS artifacts
+.DS_Store

@@ -1,0 +1,10 @@
+[project]
+name = "coralie-rousseau"
+version = "1.0.0"
+description = "Jupyter Book website using MyST Markdown"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter-book>=2.1.0",
+    "nbconvert>=7.17.0",
+]
