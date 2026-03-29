@@ -10,7 +10,7 @@ A PDF version of my CV is available upon request.
 
 | Degree | Institution | Year |
 |--------|--------------|------|
-| Ph.D. | [University Name] | 20XX |
+| Ph.D. | Biological Station of Roscoff | Dec. 2022 - March 2025 |
 | M.S. | [University Name] | 20XX |
 | B.S. | [University Name] | 20XX |
 
