@@ -1,4 +1,4 @@
-# Welcome
+# Coralie Rousseau
 
 :::{card}
 **Welcome to my academic website.**
